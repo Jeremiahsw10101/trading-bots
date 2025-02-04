@@ -1,2 +1,3 @@
 *.pem
 .aws_ssh_connect.sh
+meteomatics_credentials.txt
